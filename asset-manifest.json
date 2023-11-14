@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/EudTech-App/static/css/main.aa157d37.css",
+    "main.js": "/EudTech-App/static/js/main.d805257f.js",
+    "static/media/tc.png": "/EudTech-App/static/media/tc.66e132f330fd312fe176.png",
+    "static/media/meta.jpeg": "/EudTech-App/static/media/meta.7e3f88a1b4640d37c922.jpeg",
+    "static/media/miya.jpg": "/EudTech-App/static/media/miya.cfeb40c12ffb25457bb8.jpg",
+    "static/media/footer.png": "/EudTech-App/static/media/footer.c784afd004b3e6047ce1.png",
+    "static/media/logo.png": "/EudTech-App/static/media/logo.e30880f38a2c19d773ee.png",
+    "static/media/sd.png": "/EudTech-App/static/media/sd.0897abc962b9843e2ae7.png",
+    "static/media/dg.png": "/EudTech-App/static/media/dg.9624ed4cc0ac7f4e8024.png",
+    "static/media/ai.png": "/EudTech-App/static/media/ai.0b1f4f6f49e69c33509f.png",
+    "index.html": "/EudTech-App/index.html",
+    "main.aa157d37.css.map": "/EudTech-App/static/css/main.aa157d37.css.map",
+    "main.d805257f.js.map": "/EudTech-App/static/js/main.d805257f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa157d37.css",
+    "static/js/main.d805257f.js"
+  ]
+}
