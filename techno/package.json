@@ -1,6 +1,5 @@
 {
   "name": "techno",
-  "homepage" : "https://FASIL-K.github.io/react-static-edutech-web",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,8 +17,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy":"gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

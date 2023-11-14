@@ -16,11 +16,10 @@ function LayoutRoutes() {
         <Header/>
         <Routes>
             <Route path='/' element={<Home/>}  />
-            <Route path='/react-static-edutech-web' element={<Home/>}  />
             <Route path='/services' element={<Plans/>}  />
             <Route path='/cources' element={<Courses/>}  />
             <Route path='/aboutus' element={<About/>}  />
-            <Route path='/contact' element={<ContactUs/>}  />
+            <Route path='/aboutus' element={<ContactUs/>}  />
 
         </Routes>
         <Footer/>
