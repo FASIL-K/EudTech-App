@@ -16,6 +16,7 @@ function LayoutRoutes() {
         <Header/>
         <Routes>
             <Route path='/' element={<Home/>}  />
+            <Route path='/EudTech-App' element={<Home/>}  />
             <Route path='/services' element={<Plans/>}  />
             <Route path='/cources' element={<Courses/>}  />
             <Route path='/aboutus' element={<About/>}  />
